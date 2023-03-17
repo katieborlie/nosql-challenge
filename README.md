@@ -12,7 +12,7 @@
 
 ## Instructions
 
-The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, *Eat Safe, Love*, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
 ### Part 1: Database and Jupyter Notebook Set Up
 
@@ -87,7 +87,7 @@ Use NoSQL_analysis_starter.ipynb for this section of the challenge.
 
 Some notes to be aware of while you are exploring the dataset:
 
-  * RatingValue refers to the overall rating decided by the Food Authority and ranges from 1-5. The higher the value, the better the rating. Note: This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating.
+  * RatingValue refers to the overall rating decided by the Food Authority and ranges from 1-5. The higher the value, the better the rating. **Note:** This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating.
 
   * The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
 
@@ -114,3 +114,5 @@ Unless otherwise stated, for each question:
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 #### Hint: *You will need to use the aggregation method to answer this.*
+
+`#ffffff` Hi
