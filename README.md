@@ -4,13 +4,13 @@
 
 ## Before You Begin
 
-* Create a new repository for this project called `nosql-challenge`. **Do not add this homework to an existing repository.**
+🍏 Create a new repository for this project called `nosql-challenge`. **Do not add this homework to an existing repository.**
 
-* Clone the new repository to your computer.
+🍎 Clone the new repository to your computer.
 
-* Add your Jupyter notebook starter files and your Resources folder containing `establishments.json` to this folder.
+🍏 Add your Jupyter notebook starter files and your Resources folder containing `establishments.json` to this folder.
 
-* Push the changes to GitHub.
+🍎 Push the changes to GitHub.
 
 ## Instructions
 
