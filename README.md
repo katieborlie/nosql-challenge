@@ -1,6 +1,6 @@
 # Module 12 Challenge : NOSQL
 
-<https://www.google.com/url?sa=i&url=https%3A%2F%2Fehs.stonybrook.edu%2Fprograms%2Ffood-safety.php&psig=AOvVaw36VmL8hmiIOD0bBQ3Tn59P&ust=1679178215658000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKDLqrqA5P0CFQAAAAAdAAAAABAE>
+<img width="516" alt="Screenshot 2023-03-17 at 6 25 36 PM" src="https://user-images.githubusercontent.com/119274891/226063411-160dbe0b-1c94-4ffc-99f5-fb844285ae95.png">
 
 ## Before You Begin
 
