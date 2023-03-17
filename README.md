@@ -115,4 +115,4 @@ Unless otherwise stated, for each question:
 
 #### Hint: *You will need to use the aggregation method to answer this.*
 
-`#ffffff` Hi
+`hi`
