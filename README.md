@@ -81,13 +81,13 @@ The magazine editors have some requested modifications for the database before y
 
 ### Part 3: Exploratory Analysis
 
-Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
+*Eat Safe, Love* has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 
 Use NoSQL_analysis_starter.ipynb for this section of the challenge.
 
 Some notes to be aware of while you are exploring the dataset:
 
-  * RatingValue* * refers to the overall rating decided by the Food Authority and ranges from 1-5. The higher the value, the better the rating. Note: This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating.
+  * RatingValue refers to the overall rating decided by the Food Authority and ranges from 1-5. The higher the value, the better the rating. Note: This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating.
 
   * The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
 
